@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "title": "Gazpacho",
+      "img": "https://www.expatica.com/app/uploads/sites/6/2014/05/Eintopf-1920x1080.jpg",
+      "description": "tomates, pimiento",
+      "timeInMinutes": 60
+    },
+    {
+      "id": "2",
+      "title": "Tortilla de patatas",
+      "img": "https://www.expatica.com/app/uploads/sites/6/2014/05/Eintopf-1920x1080.jpg",
+      "description": "patatas, huevo",
+      "timeInMinutes": 60
+    },
+    {
+      "id": "3",
+      "title": "Tortilla de gatos",
+      "img": "https://www.expatica.com/app/uploads/sites/6/2014/05/Eintopf-1920x1080.jpg",
+      "description": "patatas, huevo, gatos",
+      "timeInMinutes": 60
+    }
+  ]
